@@ -1,6 +1,6 @@
 #Flutter ile geliştirilmiş Tic tac toe oyunu
 
-[!embed](https://www.youtube.com/watch?v=vq2jYFZVMDA)
+[!embed?max_width=1200](https://www.youtube.com/watch?v=vq2jYFZVMDA)
 Videodaki eğitim gerçekleştirildikten sonra aşağıdaki iyileştirmeler yapılmıştır.
 *Menü ekranı eklenmiştir.
 *Skoru gösteren bölüm eklenmiştir.
