@@ -1,9 +1,10 @@
-#Flutter ile geliştirilmiş Tic tac toe oyunu
+# Flutter ile geliştirilmiş Tic tac toe oyunu
 
-[!embed?max_width=1200](https://www.youtube.com/watch?v=vq2jYFZVMDA)
+<iframe width="1271" height="675" src="https://www.youtube.com/embed/u1KD6Kz0PIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Videodaki eğitim gerçekleştirildikten sonra aşağıdaki iyileştirmeler yapılmıştır.
-*Menü ekranı eklenmiştir.
-*Skoru gösteren bölüm eklenmiştir.
-*Görsel değişikler uygulanmıştır.
-*Bilgisayarın rastgele değil belli kurallara göre hamle yapılması sağlanmıştır.
-*Singleplayer ve  Multiplayer modları eklenmiştir.
+* Menü ekranı eklenmiştir.
+* Skoru gösteren bölüm eklenmiştir.
+* Görsel değişikler uygulanmıştır.
+* Bilgisayarın rastgele değil belli kurallara göre hamle yapılması sağlanmıştır.
+* Singleplayer ve  Multiplayer modları eklenmiştir.
